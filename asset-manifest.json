@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/assign-syni/static/css/main.f0dd54e2.css",
+    "main.js": "/assign-syni/static/js/main.56c12b9c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/assign-syni/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner.png": "/assign-syni/static/media/banner.51aebdbcece1007e6577.png",
+    "static/media/banner-1.png": "/assign-syni/static/media/banner-1.0f4d505b6d3014bfae58.png",
+    "static/media/banner-2.png": "/assign-syni/static/media/banner-2.5a4f9cf50b12496b4935.png",
+    "static/media/about.svg": "/assign-syni/static/media/about.e25575fbacf1b945b9a214e5d4763480.svg",
+    "static/media/Group-171.svg": "/assign-syni/static/media/Group-171.18ed640ef6e7ad0d77af.svg",
+    "static/media/Mask-Group-9-1536x874.png": "/assign-syni/static/media/Mask-Group-9-1536x874.f82973b4acf592663cfc.png",
+    "static/media/tasfeel-bg.svg": "/assign-syni/static/media/tasfeel-bg.2d5b5b01be3ee8894b74.svg",
+    "static/media/Mask-Group-1-991x1024.png": "/assign-syni/static/media/Mask-Group-1-991x1024.b957c03f3f57d92a92d8.png",
+    "static/media/footer-logo.svg": "/assign-syni/static/media/footer-logo.ea16c80f214fb065e2db15b9f861354f.svg",
+    "static/media/number.svg": "/assign-syni/static/media/number.aca1c10380a39df08a089300515c9ecf.svg",
+    "static/media/call-1.svg": "/assign-syni/static/media/call-1.f7fd779511841df8719b192721aa7034.svg",
+    "static/media/mail-1.svg": "/assign-syni/static/media/mail-1.6ee9e6c3357f90dc0ca58f43cc30c181.svg",
+    "static/media/location.svg": "/assign-syni/static/media/location.cefbb8835d8fadb817ec20a37686d80d.svg",
+    "index.html": "/assign-syni/index.html",
+    "main.f0dd54e2.css.map": "/assign-syni/static/css/main.f0dd54e2.css.map",
+    "main.56c12b9c.js.map": "/assign-syni/static/js/main.56c12b9c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/assign-syni/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0dd54e2.css",
+    "static/js/main.56c12b9c.js"
+  ]
+}

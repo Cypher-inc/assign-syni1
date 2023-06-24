@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="996.79" height="241.157" viewBox="0 0 996.79 241.157">
+  <g id="Group_175" data-name="Group 175" transform="translate(-461.473 -2426.894)">
+    <g id="Group_121" data-name="Group 121" transform="translate(461.473 2422.894)">
+      <text id="Number" transform="translate(367.651 241.157)" fill="azure" font-size="16" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-28.888" y="0">Number</tspan></text>
+      <text id="Title" transform="translate(368.635 16)" fill="azure" font-size="16" font-family="Helvetica"><tspan x="-21.781" y="0">TITLE</tspan></text>
+      <text id="Number-2" data-name="Number" transform="translate(75.994 241.157)" fill="azure" font-size="16" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-28.888" y="0">Number</tspan></text>
+      <text id="Title-2" data-name="Title" transform="translate(76.978 16)" fill="azure" font-size="16" font-family="Helvetica"><tspan x="-21.781" y="0">TITLE</tspan></text>
+      <g id="Group_82" data-name="Group 82" transform="translate(568.434 48.055)">
+        <g id="counter">
+          <g id="Ellipse_20" data-name="Ellipse 20" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="12" stroke-dasharray="300 1000">
+            <circle cx="77.948" cy="77.948" r="77.948" stroke="none"/>
+            <circle cx="77.948" cy="77.948" r="71.948" fill="none"/>
+          </g>
+        </g>
+        <text id="_2700" data-name="2700" transform="translate(72.822 89.204)" fill="#fff" font-size="35" font-family="Verdana"><tspan x="-44.502" y="0">2700</tspan></text>
+      </g>
+      <g id="Group_83" data-name="Group 83" transform="translate(840.893 48.055)">
+        <g id="counter-2" data-name="counter">
+          <g id="Ellipse_20-2" data-name="Ellipse 20" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="12" stroke-dasharray="400 1000">
+            <circle cx="77.948" cy="77.948" r="77.948" stroke="none"/>
+            <circle cx="77.948" cy="77.948" r="71.948" fill="none"/>
+          </g>
+        </g>
+        <text id="_7800" data-name="7800" transform="translate(73.061 89.204)" fill="#fff" font-size="35" font-family="Verdana"><tspan x="-44.502" y="0">7800</tspan></text>
+      </g>
+      <g id="Group_81" data-name="Group 81" transform="translate(291.657 45.177)">
+        <g id="counter-3" data-name="counter">
+          <g id="Ellipse_20-3" data-name="Ellipse 20" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="12" stroke-dasharray="390 1000">
+            <circle cx="77.948" cy="77.948" r="77.948" stroke="none"/>
+            <circle cx="77.948" cy="77.948" r="71.948" fill="none"/>
+          </g>
+        </g>
+        <text id="_4520" data-name="4520" transform="translate(75.858 90.363)" fill="#fff" font-size="34" font-family="Verdana"><tspan x="-43.23" y="0">4520</tspan></text>
+      </g>
+      <g id="Group_84" data-name="Group 84" transform="translate(0 45.177)">
+        <g id="counter-4" data-name="counter">
+          <g id="Ellipse_20-4" data-name="Ellipse 20" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="12" stroke-dasharray="290 1000">
+            <circle cx="77.948" cy="77.948" r="77.948" stroke="none"/>
+            <circle cx="77.948" cy="77.948" r="71.948" fill="none"/>
+          </g>
+        </g>
+        <text id="_1000" data-name="1000" transform="translate(75.858 90.363)" fill="#fff" font-size="34" font-family="Verdana"><tspan x="-43.23" y="0">1000</tspan></text>
+      </g>
+      <text id="Number-3" data-name="Number" transform="translate(642.269 241.157)" fill="azure" font-size="16" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-28.888" y="0">Number</tspan></text>
+      <text id="Title-3" data-name="Title" transform="translate(643.253 16)" fill="azure" font-size="16" font-family="Helvetica"><tspan x="-21.781" y="0">TITLE</tspan></text>
+      <text id="Number-4" data-name="Number" transform="translate(916.887 241.157)" fill="azure" font-size="16" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-28.888" y="0">Number</tspan></text>
+      <text id="Title-4" data-name="Title" transform="translate(917.871 16)" fill="azure" font-size="16" font-family="Helvetica"><tspan x="-21.781" y="0">TITLE</tspan></text>
+    </g>
+  </g>
+</svg>
